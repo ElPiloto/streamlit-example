@@ -1,4 +1,6 @@
 altair
 jax
+jaxlib
+numpy
 pandas
 streamlit
